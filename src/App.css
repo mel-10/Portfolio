@@ -50,22 +50,20 @@ nav.navbar a.navbar-brand {
     width: 9%;
     
 }
-nav.navbar .navbar-nav .navbar-link {
+nav.navbar .navbar-nav .nav-link.navbar-link {
   font-weight: 400;
   color: #000000 ;
   letter-spacing: 0.8px;
   padding: 0 25px;
   font-size: 18px;
   opacity: 0.75;
-  text-decoration: none; 
-  cursor: pointer;
 }
-nav.navbar .navbar-link:hover{
+nav.navbar .nav-link.navbar-link:hover{
   color: #3498DB;
 
 }
-nav.navbar .navbar-nav a.navbar-link:hover,
-nav.navbar .navbar-nav a.navbar-link.active {
+nav.navbar .navbar-nav a.nav-link.navbar-link:hover,
+nav.navbar .navbar-nav a.nav-link.navbar-link.active {
     opacity: 1;
 }
 span.navbar-text {
