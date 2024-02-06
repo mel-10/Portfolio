@@ -15,8 +15,8 @@ export const Projects= () =>{
             imgUrl: ProjImg1
         },
         {
-            title:"React Budget App",
-            description:"TechStack used: ReactJS",
+            title:"React Expense Tracker",
+            description:"TechStack used: MERN",
             imgUrl: ProjImg2
         },
         {

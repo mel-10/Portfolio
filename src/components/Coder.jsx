@@ -3,8 +3,8 @@ import coder from '../assets/coder.png';
 
 export const Coder = ()=>{
     return(
-        <Container>
-            <section className="coder" id="skills">
+        <Container id="coder">
+            <section className="coder" >
                 <Row className="rectangle">
                     <Col md={8} className="code">
                         <div className="box">

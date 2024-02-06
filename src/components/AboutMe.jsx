@@ -5,7 +5,7 @@ import TrackVisibility from 'react-on-screen';
 
 export const AboutMe=()=>{
     return(
-        <section className="About" id="aboutme">
+        <section className="About" id="about-me">
         <Container>
             <Row className="align-items-center">
 
